@@ -4,4 +4,10 @@
 2. The manager should enter resident info in the resident file in this format
 {Student Number, Room Number, Name, Gentle Reminder = 0}
 
+This is project was made by:
+KATE CAPADOCIA
+GABRIEL DOMINIC DICAR
+JOHN ROMSON ERAZO
+EARL PABUA
 
+a final output for CMSC22
