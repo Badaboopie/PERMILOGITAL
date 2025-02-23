@@ -1,0 +1,7 @@
+||=====>READ ME<=====||
+
+1. Manager password is "password"
+2. The manager should enter resident info in the resident file in this format
+{Student Number, Room Number, Name, Gentle Reminder = 0}
+
+
